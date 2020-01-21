@@ -6,5 +6,5 @@ I'll keep my update on this.
 
 
 These are 2212 motors.
-![image](https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/2212_motor_1.JPG = 250x250)
+![image](https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/2212_motor_1.JPG | width = "250" height = "250")
 
