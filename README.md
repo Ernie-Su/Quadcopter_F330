@@ -12,3 +12,7 @@ I'll keep my update on this.
 
 <img src ="https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/2212_motor_1.JPG" width="250" height="250">
 
+* Frame with propellers
+
+<img src ="https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/frame_with_prop_1.JPG" width="250" height="250">
+
