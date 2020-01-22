@@ -1,6 +1,8 @@
 ### This is Ernie Su's quadopter project.
 
-I use the follwing stuff in my quadcopter:
+I write this blog to record my processing.
+
+First, I use the follwing stuff in my quadcopter:
 * F330 frame
 * YH2212 motor x4
 * 8045 Propellers x4
@@ -11,6 +13,7 @@ I use the follwing stuff in my quadcopter:
 * Pixhawk 2.4.8
 * M8N GPS
 * PPM Encoder
+* 6S FLY-SKY Telecontroller
 
 I'll keep my update on this blog.
 
