@@ -2,7 +2,7 @@
 
 I write this blog to record my processing.
 
-First, I use the follwing stuffs in my quadcopter:
+First, I use the follwing components in my quadcopter:
 * F330 Frame
 * 2212 Motor x 4
 * 8045 Propellers x 4
@@ -15,7 +15,20 @@ First, I use the follwing stuffs in my quadcopter:
 * PPM Encoder
 * 6S FLY-SKY Telecontroller
 
+Before the build up of quadcopter, we need to set orientation, compass,  etc. by 
+using micro USB to connect flight controller with PC, using QGroundControl.
+It's easy to calibrate with a small flight controller rather than a big quadcopter,
+since you have to rotate the compass during calibration.
+
+There are some tips when it comes to quadcopter's build-up:
+1. Flight controller's direction must be the same as GPS's, 
+   so before every part is fixed with the frame, 
+   it's good to manage the components' wiring and placement.
+
+2. 
+
 I'll keep my blog updated.
+
 
 <!---<img src ="https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/frame_1.JPG" width="250" height="250">-->
 
