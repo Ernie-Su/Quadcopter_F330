@@ -27,8 +27,12 @@ There are some tips when it comes to quadcopter's build-up:
 
 2. Cable tie and 3M tape are helpful when your're stablizing all the components.
 
-3. The power wiring is important, too. This is mine.
-<img src ="https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/power_wiring_1.JPG" width="400" height="400">
+3. The power wiring is important, too. This is mine here.
+   <img src ="https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/power_wiring_1.JPG" width="400" height="400">
+   I avoid the frame and make a 3.3V division from 12V by paralleling a 39k ohm resistor and a 13.3k one.
+   <!--<img src ="https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/frame_1.JPG" width="250" height="250">-->
+
+4.
 
 I'll keep my blog updated.
 
