@@ -23,7 +23,7 @@ since you have to rotate the compass during calibration.
 There are some tips when it comes to quadcopter's build-up:
 1. Flight controller's direction must be the same as GPS's, 
    so before every part is fixed with the frame, 
-   it's good to manage the components' wiring and placement.
+   it's good to arrange the components' wiring and placement.
 
 2. 
 
