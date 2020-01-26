@@ -14,6 +14,7 @@ First, I use the follwing components in my quadcopter:
 * M8N GPS
 * PPM Encoder
 * 6S FLY-SKY Telecontroller
+* V2 Radio Telemetry
 
 Before the build up of quadcopter, we need to set orientation, compass,  etc. by 
 using micro USB to connect flight controller with PC, using QGroundControl.
