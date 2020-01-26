@@ -30,11 +30,12 @@ There are some tips when it comes to quadcopter's build-up:
 3. The power wiring is important, too. This is mine here.
 
    <img src ="https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/power_wiring_1.JPG" width="400" height="400">
+   
    I avoid the frame and make a 3.3V division from 12V by paralleling a 39k ohm resistor and a 13.3k one.
    <!--<img src ="https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/frame_1.JPG" width="250" height="250">-->
 
 * FS-IA6's receiver's first 3 pins need to connect to **RC IN** and **left SBUS alone**.
-* V2 Telemetry's **TX and RX are wrong** at my datasheet, so check if it's *IN* or *OUT*.
+* V2 Telemetry's **TX and RX are ** at my datasheet, so check if it's *IN* or *OUT*.
 
 
 I'll keep my blog updated.
