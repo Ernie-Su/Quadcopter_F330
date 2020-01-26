@@ -35,7 +35,7 @@ There are some tips when it comes to quadcopter's build-up:
    I avoid the frame and make a 3.3V division from 12V by paralleling a 39k ohm resistor and a 13.3k one.
    <!--<img src ="https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/frame_1.JPG" width="250" height="250">-->
 
-* FS-IA6's receiver's first 3 pins need to connect to **RC IN** and **left SBUS alone**.
+* FS-IA6's receiver's first 3 pins need to connect to pixhawk's **RC IN** and **left SBUS alone**.
 * V2 Telemetry's **TX and RX are reverse** at my datasheet, so check if it's *IN* or *OUT*.
 
 
