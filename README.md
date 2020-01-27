@@ -36,9 +36,7 @@ There are some tips when it comes to quadcopter's build-up:
 
 4. B6AC has a function called **Balance Charge**, to use it you have to connect two wires to B6AC.
 
-5. Battery at * high energy is **4.2V**
-              * low energy is **3.7V**
-              * overcharge is **3.2V**
+5. Battery at high energy is **4.2V**,    low energy is **3.7V**,    overcharge is **3.2V**
 
 6. Propellers have 2 directoins, clockwise and counterclockwise.
    The **rising** surface is hitting the air so that quadcopter can goes up.
