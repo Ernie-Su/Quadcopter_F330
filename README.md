@@ -3,6 +3,7 @@
 I write this blog to record my processing.
 
 ### Components in Quadcopter :
+***
    * F330 Frame
    * 2212 Motor x 4
    * 8045 Propellers x 4
@@ -15,6 +16,7 @@ I write this blog to record my processing.
    * PPM Encoder
    * 6S FLY-SKY Telecontroller
    * V2 Radio Telemetry
+***
 
 Before the build up of quadcopter, we need to set orientation, compass,  etc. by 
 using micro USB  or the telemetry to connect flight controller with PC, using QGroundControl.
@@ -23,6 +25,7 @@ since you have to rotate the compass during calibration.
 However, you can use a function in QGC called **Level Horizon** to calibrate pixhawk.
 
 ### Build-up tips :
+***
    1. Flight controller's direction must be the same as GPS's, 
       so it's good to arrange the components' wiring and placement after every part is fixed with the frame.
 
@@ -42,7 +45,7 @@ However, you can use a function in QGC called **Level Horizon** to calibrate pix
       The **rising** surface is hitting the air so that quadcopter can go up.
       Find the rising surface and then you'll know if this prop is clockwise or not.
       Also, the tip is at the opposite direction to the prop, which makes it tighter.
-   
+***
 * V2 Telemetry's **TX and RX are reverse** at my flight controller's datasheet, so check if it's *IN* or *OUT*.
 * FS-IA6's receiver's first 3 pins need to connect to pixhawk's **RC IN** and **left SBUS alone**.
 
