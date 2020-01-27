@@ -39,13 +39,19 @@ There are some tips when it comes to quadcopter's build-up:
 5. Battery at high energy is **4.2V**,    low energy is **3.7V**,    overcharge is **3.2V**
 
 6. Propellers have 2 directoins, clockwise and counterclockwise.
-   The **rising** surface is hitting the air so that quadcopter can goes up.
+   The **rising** surface is hitting the air so that quadcopter can go up.
    Find the rising surface and then you'll know if this prop is clockwise or not.
    Also, the tip is at the opposite direction to the prop, which makes it tighter.
    
    
 * FS-IA6's receiver's first 3 pins need to connect to pixhawk's **RC IN** and **left SBUS alone**.
-* V2 Telemetry's **TX and RX are reverse** at my datasheet, so check if it's *IN* or *OUT*.
+* V2 Telemetry's **TX and RX are reverse** at my flight controller's datasheet, so check if it's *IN* or *OUT*.
+
+### References
+
+Flight Controller pixhawk 2.4.8 Datasheet : <https://docs.px4.io/v1.9.0/en/flight_controller/pixhawk.html>
+
+F330 Quadcopter Manual(Simplified Chinese) : <https://zhuanlan.zhihu.com/p/34909126>
 
 I'll keep my blog updated.
 
