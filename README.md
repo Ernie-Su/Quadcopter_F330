@@ -46,7 +46,7 @@ However, you can use a function in QGC called **Level Horizon** to calibrate pix
       Find the rising surface and then you'll know if this prop is clockwise or not.
       Also, the tip is at the opposite direction to the prop, which makes it tighter.
 ***
-* V2 Telemetry's **TX and RX are reverse** at my flight controller's datasheet, so check if it's *IN* or *OUT*.
+* V2 Telemetry's **TX and RX are reverse** to those on flight controller because IN receives OUT and so on.
 * FS-IA6's receiver's first 3 pins need to connect to pixhawk's **RC IN** and **left SBUS alone**.
 
 <img src ="https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/RC.JPG" width="400" height="400">
