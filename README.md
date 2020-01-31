@@ -22,7 +22,7 @@ Before the build up of quadcopter, we need to set orientation, compass,  etc. by
 using micro USB  or the telemetry to connect flight controller with PC, using QGroundControl.
 It's easy to calibrate with a small flight controller rather than a big quadcopter,
 since you have to rotate the compass during calibration.
-However, you can use a function in QGC called **Level Horizon** to calibrate pixhawk.
+However, you can use a function in QGC called **Level Horizon** to calibrate pixhawk after you biult up.
 
 ### Build-up tips :
 ***
@@ -46,11 +46,14 @@ However, you can use a function in QGC called **Level Horizon** to calibrate pix
       Find the rising surface and then you'll know if this prop is clockwise or not.
       Also, the tip is at the opposite direction to the prop, which makes it tighter.
 ***
+
+### Notice :
+***
 * V2 Telemetry's **TX and RX are reverse** to those on flight controller because IN receives OUT and so on.
 * FS-IA6's receiver's first 3 pins need to connect to pixhawk's **RC IN** and **left SBUS alone**.
 
 <img src ="https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/RC.JPG" width="400" height="400">
-
+***
 
 ### References
 
