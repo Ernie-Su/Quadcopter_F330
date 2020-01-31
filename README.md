@@ -53,6 +53,7 @@ However, you can use a function in QGC called **Level Horizon** to calibrate pix
 * FS-IA6's receiver's first 3 pins need to connect to pixhawk's **RC IN** and **left SBUS alone**.
 
 <img src ="https://github.com/Ernie-Su/Quadcopter_F330/blob/master/Image/RC.JPG" width="400" height="400">
+
 ***
 
 ### References
